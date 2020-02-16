@@ -1,0 +1,1 @@
+hugo --theme=hermit --baseUrl="https://blog.jihuayu.io/"

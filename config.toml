@@ -1,7 +1,7 @@
 baseURL = "https://blog.jihuayu.site"
 languageCode = "cn-zh"
 defaultContentLanguage = "zh"
-title = "寻道路"
+title = "纪华裕"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
@@ -77,6 +77,6 @@ disqusShortname = "jihuayu"
 
 
   [[menu.main]]
-    name = "学习"
-    url = "study/"
+    name = "诗句"
+    url = "talks/"
     weight = 40
